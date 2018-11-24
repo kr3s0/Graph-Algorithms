@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1542901526 source:d:\coding\grafovi\main.cpp
+	<iostream>
+	<vector>
+	"GrafOperacije.h"
+	<list>
+
+1542901291 d:\coding\grafovi\include\grafoperacije.h
+	"MSGraf.h"
+	<vector>
+	<unordered_set>
+	<stack>
+
+1539954463 d:\coding\grafovi\include\msgraf.h
+
+1542779997 source:d:\coding\grafovi\src\msgraf.cpp
+	"MSGraf.h"
+
+1539457559 source:d:\coding\grafovi\src\red.cpp
+	"Red.h"
+	<iostream>
+
+1539457528 d:\coding\grafovi\include\red.h
+
+1542901379 source:d:\coding\grafovi\src\grafoperacije.cpp
+	"GrafOperacije.h"
+	<iostream>
+	<queue>
+	<vector>
+	<unordered_set>
+	<stack>
+	<climits>
+
